@@ -1,4 +1,4 @@
-# Banco-Sangue# Banco de Sangue
+# Banco de Sangue
 
 # Tecnologias e frameworks utilizados no projeto:
 
